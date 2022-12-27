@@ -24,7 +24,7 @@ Model-dependent realism is a philosophical view that holds that our understandin
 # What do I do about this?
 <br>
 Nothing (jk).<br> Be careful. <br>
-To use models carefully, it is important to understand their limitations and the context in which they are most applicable. This includes being aware of the assumptions and limitations of the model, as well as the data and techniques used to develop it. It is also important to use the appropriate model for the problem at hand, as using the wrong model can lead to inaccurate or misleading results. To verify the model's accuracy, it is important to test its predictions against real-world data. When presenting or using a model, it is important to clearly communicate its limitations to ensure that others understand the context in which it is most applicable. Finally, as new data becomes available or our understanding of the problem changes, it may be necessary to revise or update the model. It is important to continuously evaluate and update the model to ensure that it remains accurate and relevant.
+To use models carefully, it is important to understand their limitations and the context in which they are most applicable. This includes being aware of the assumptions and limitations of the model, as well as the data and techniques used to develop it. It is also important to use the appropriate model for the problem at hand, as using the wrong model can lead to inaccurate or misleading results.
 
 # Further Reading 
 <br>
