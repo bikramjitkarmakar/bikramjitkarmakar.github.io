@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+	<channel>
+		<title></title>
+		<description>A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+</description>		
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0530</lastBuildDate>
+		
+		
+            
+                <item>
+                    <title>Models in Science</title>
+                    
+                        <description>&lt;h1 id=&quot;what-is-even-a-model&quot;&gt;What is even a model&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+One of the most famous models in science is Newton’s laws of motion, which describe how objects move and behave under the influence of forces. These laws have been used to explain a wide range of phenomena, from the orbits of planets around the sun to the motion of a baseball thrown through the air. However, despite their wide-ranging success, Newton’s laws are ultimately just a model of the world. They do not perfectly capture every aspect of how objects move and behave, and there are situations in which they break down and need to be replaced with a different model.&lt;/p&gt;
+
+&lt;h1 id=&quot;nobody-told-me-in-7th-grade-that-newtons-law-is-a-model&quot;&gt;Nobody told me in 7th grade that Newton’s law is a model&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+This was best demostrated with the COVID-19 models. When COVID-19 emerged, different models predicted different outcomes, leading to confusion, uncertainty and even error in judgement. It is important to understand that models should be interpreted in context and that different models may be more or less useful depending on the specific context in which they are being used.&lt;/p&gt;
+
+&lt;h1 id=&quot;all-models-are-wrong-but-there-are-some-that-i-am-emotionally-attached-to&quot;&gt;All models are wrong, but there are some that I am emotionally attached to.&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Explaining models to non-STEM (science, technology, engineering, and math) audiences can be a challenge, as these audiences may not have the same level of familiarity with the technical concepts and terminology used in the model.  The STEM community, historically, also has not done a good job in explaining it to non-STEM community. This lack of understanding can lead to misunderstandings and misconceptions about the capabilities and limitations of the model, which can have serious consequences in fields like public policy, where models are often used to inform decision-making.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-philosophical-stance---model-dependent-realism&quot;&gt;The philosophical stance - model dependent realism&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Model-dependent realism is a philosophical view that holds that our understanding of the world is shaped by the models we use to represent it. These models, which can range from mathematical equations to computer simulations, are not exact representations of reality but rather simplifications that capture certain aspects of the world. According to model-dependent realism, there is no single “true” representation of reality, and the usefulness of a model depends on the context in which it is being used. This perspective is often contrasted with realism, which suggests that our theories and models correspond to an objective, pre-existing reality.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-do-i-do-about-this&quot;&gt;What do I do about this?&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Nothing (jk).&lt;br /&gt; Be careful. &lt;br /&gt;
+To use models carefully, it is important to understand their limitations and the context in which they are most applicable. This includes being aware of the assumptions and limitations of the model, as well as the data and techniques used to develop it. It is also important to use the appropriate model for the problem at hand, as using the wrong model can lead to inaccurate or misleading results. To verify the model’s accuracy, it is important to test its predictions against real-world data. When presenting or using a model, it is important to clearly communicate its limitations to ensure that others understand the context in which it is most applicable. Finally, as new data becomes available or our understanding of the problem changes, it may be necessary to revise or update the model. It is important to continuously evaluate and update the model to ensure that it remains accurate and relevant.&lt;/p&gt;
+
+&lt;h1 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Take a look at this &lt;a href=&quot;https://plato.stanford.edu/entries/realism/&quot;&gt;post/essay&lt;/a&gt;.
+&lt;br /&gt;
+Alternatively you can take a look the following - 
+&lt;br /&gt;&lt;br /&gt;
+“The Road to Reality: A Complete Guide to the Laws of the Universe” by Roger Penrose - This book provides a comprehensive overview of the model-dependent realism view, including its implications for our understanding of the physical world and the limitations of scientific models.
+&lt;br /&gt;&lt;br /&gt;
+“Models and Reality” by John L. Pollock - In this book, Pollock discusses the role of models in science and their relationship to reality, exploring the implications of the model-dependent realism view for our understanding of the world.
+&lt;br /&gt;&lt;br /&gt;
+“Model-Dependent Realism: The Contemporary Version of Scientific Realism” by James Ladyman and Don Ross - This article provides a detailed overview of the model-dependent realism view, including its history, key concepts, and implications for scientific practice.
+&lt;br /&gt;&lt;br /&gt;
+“The Structure of Scientific Revolutions” by Thomas S. Kuhn - In this classic work, Kuhn discusses the role of paradigms and models in scientific change, including the idea that our understanding of the world is shaped by the models we use to represent it.
+&lt;br /&gt;&lt;br /&gt;
+“The Scientific Image” by Bas van Fraassen - In this book, van Fraassen discusses the role of models in science and the implications of the model-dependent realism view for our understanding of the world.&lt;/p&gt;
+</description>
+                    <pubDate>Sun, 25 Dec 2022 00:00:00 +0530</pubDate>
+                    <link>http://localhost:4000/2022/12/25/models-in-science.html</link>
+                    <guid isPermaLink="true">http://localhost:4000/2022/12/25/models-in-science.html</guid>
+                </item>
+            
+		
+	</channel>
+</rss>

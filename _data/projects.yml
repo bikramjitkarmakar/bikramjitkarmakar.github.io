@@ -1,0 +1,32 @@
+- name: MicroSim - PhaseField microstructure simulator
+  id: microsim # Project id, must be unique amongst the projects
+  img_src: /assets/img/microsim.png # Optional image
+  description_less: MicroSim is a project under the National Supercomuting Mission, Govt. of India. It is a software stacks to allows to perform microstructure simulations using high performance computing using the phase field technique.
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>The software stack consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware(CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune).</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://github.com/ICME-India/MicroSim" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://microsim.co.in/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-globe"></i> &nbsp Website</a>
+  tags: [open-source] # A list of tags
+
+- name: Covid-Notifier
+  id: covid-notifier
+  img_src: 
+  description_less: When covid vaccines were limited, I had set up a notifier (using chrome push notifications) to notify when a slot becomes available near you.
+  description_more: >
+    <p>In retrospect, I could have done a better job at this by making it more accessible</p>
+  action_buttons: >
+    <a href="https://github.com/bikramjitkarmakar/CoWin-notifier" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [open-source]
+
+
+- name: Phase Field Dynamic Meshing
+  id: phase-field-dynamic-meshing # Project id, must be unique amongst the projects
+  img_src: assets/img/dendrite-gif.gif # Optional image
+  description_less: Phase Field Dynamic Meshing is a set of codes that allows to do dynamic/ adapted meshing in Phase Field simulation in OpenFoam
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p></p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://github.com/bikramjitkarmakar/Phase-Field-DynamicMeshing" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+   
+  tags: [open-source] # A list of tags
