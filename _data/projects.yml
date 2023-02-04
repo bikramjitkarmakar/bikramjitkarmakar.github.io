@@ -11,7 +11,7 @@
 
 - name: AI makes things better
   id: make-everything-better
-  img_src: 
+  img_src: /assets/img/Make_things_better.PNG
   description_less: This is a serverless-streamlit app built using stlite doing facial recognition, smile detection right inside the browser.  
   description_more: >
     <p>No data is uploaded into any server</p>
