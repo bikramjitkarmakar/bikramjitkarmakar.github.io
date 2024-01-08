@@ -1,5 +1,7 @@
 @charset "UTF-8";
-
+body {
+  font-family: 'YourPreferredFont', Arial, sans-serif;
+}
 a {
   color: #57a;
   text-decoration: none;
